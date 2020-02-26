@@ -21,6 +21,6 @@ sources. The source signals in our case are audio signals in a wav format.
 
 ![flowchart]('https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Flowchart.PNG')
 
-##Result
-![Result]('')
+## Result
+![Result]('https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Result.PNG')
 
