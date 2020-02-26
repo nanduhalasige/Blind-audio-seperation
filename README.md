@@ -19,8 +19,8 @@ with the need of very little information about the source and the process used t
 sources. The source signals in our case are audio signals in a wav format.
 </p>
 
-![flowchart]('https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Flowchart.PNG')
+![flowchart](https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Flowchart.PNG)
 
 ## Result
-![Result]('https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Result.PNG')
+![result](https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Result.PNG)
 
