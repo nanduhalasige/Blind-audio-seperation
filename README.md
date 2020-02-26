@@ -18,7 +18,9 @@ our case we are using FastICA to separate a set of source signals from a mixed s
 with the need of very little information about the source and the process used to mix the
 sources. The source signals in our case are audio signals in a wav format.
 </p>
-![Flowchart]('')
-*Result
+
+![flowchart]('https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Flowchart.PNG')
+
+##Result
 ![Result]('')
 
