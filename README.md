@@ -24,3 +24,8 @@ sources. The source signals in our case are audio signals in a wav format.
 ## Result
 ![result](https://github.com/nanduhalasige/Blind-audio-seperation/blob/master/Result.PNG)
 
+
+
+### Authors: Nandan Hegde and Erkid Hoxholli 
+#### Gdansk University Of Technology (Poland)
+#### Faculty of Electronics, Telecommunication and Informatics
